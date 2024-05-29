@@ -6,4 +6,4 @@ Graceful degradation focuses on creating basic functionality, and then working o
 
 **Link:** https://ishikaa2504.github.io/Lab8-Starter/
 
-**Screenshot:** ![/pwa.png]
+**Screenshot:** !(pwa.png)
